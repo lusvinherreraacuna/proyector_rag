@@ -3,15 +3,10 @@
 ## 📋 Tabla de Contenidos
 - [Descripción General](#descripción-general)
 - [Diagrama de Arquitectura](#diagrama-de-arquitectura)
+- [Diagrama de Flujo de Datos](#diagrama-de-flujo)
 - [Dataset: Códigos Legales de Guatemala](#dataset-códigos-legales-de-guatemala)
 - [Decisiones Técnicas](#decisiones-técnicas)
-- [Métricas de Evaluación](#métricas-de-evaluación)
-- [Comparación de Configuraciones](#comparación-de-configuraciones)
-- [Limitaciones](#limitaciones)
-- [Instalación y Uso](#instalación-y-uso)
-- [Resultados](#resultados)
-- [Trabajo Futuro](#trabajo-futuro)
-
+    
 ---
 
 ## 🎯 Descripción General
