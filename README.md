@@ -34,7 +34,8 @@ El sistema permite a los usuarios realizar preguntas en lenguaje natural sobre e
 <img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/fa81bd1c-c3a4-4846-847f-f5b9a97d9f60" />
 
 ## 🏗️ Diagrama de Flujo de Datos
-<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/f2ca9d4f-8aae-475e-a2ec-20f88210b72e" />
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/c1a2f496-b91f-4352-82fa-3c76870260f5" />
+
 
 
 
