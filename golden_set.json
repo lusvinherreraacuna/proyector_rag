@@ -1,0 +1,17 @@
+[
+    {
+        "pregunta": "¿Cuántas faltas injustificadas causan la pérdida de una materia?",
+        "respuesta_esperada": "Según el reglamento, 3 faltas injustificadas causan la pérdida de la materia",
+        "documentos_esperados": ["reglamento_estudiantil.pdf"]
+    },
+    {
+        "pregunta": "¿Cuál es el procedimiento para solicitar una revisión de examen?",
+        "respuesta_esperada": "Se debe presentar una solicitud por escrito dentro de los 5 días hábiles posteriores a la publicación de la nota",
+        "documentos_esperados": ["reglamento_academico.pdf"]
+    },
+    {
+        "pregunta": "¿Qué sanciones existen por plagio académico?",
+        "respuesta_esperada": "Las sanciones incluyen amonestación escrita, suspensión temporal o expulsión dependiendo de la gravedad",
+        "documentos_esperados": ["codigo_etica.pdf", "reglamento_disciplinario.pdf"]
+    }
+]
